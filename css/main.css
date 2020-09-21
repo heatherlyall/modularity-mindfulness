@@ -17,7 +17,7 @@ html {
   font-style: normal;
 }
 
-css body {
+body {
   margin: 0;
 }
 
@@ -39,7 +39,7 @@ h2 {
   font-size: 1.15rem;
 }
 
-.intro {
+.japan2 {
   font-weight: normal;
   font-size: 2rem;
   padding-bottom: .5em;
@@ -80,7 +80,7 @@ li {
   font-size: 1.15rem;
 }
 
-.killmenow5 {
+.intro {
   padding: 1em;
   border-top: #e2e2e2 .2rem solid;
   border-bottom: #e2e2e2 .2rem solid;
@@ -117,35 +117,3 @@ footer {
 .japan {
   font-size: 2rem;
 }
-
-@media only screen an;d (min-width: 38em) {
-
-  html {
-    font-size: 110%;
-    line-height: 1.4;
-  }
-
-  h1,
-  p {
-    margin: 0 0 1.4rem;
-  }
-
-
-  @media only screen and (min-width: 60em) {
-
-    html {
-      font-size: 120%;
-      line-height: 1.5;
-    }
-
-    h1,
-    p {
-      margin: 0 0 1.5rem;
-    }
-
-
-    @media only screen and (min-width: 90em) {
-
-      html {
-        font-size: 130%;
-      }
